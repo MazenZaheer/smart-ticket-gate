@@ -1,0 +1,12 @@
+# Build artifacts
+smart_ticket_gate
+*.o
+*.out
+*.exe
+
+# Runtime-generated data
+used_tickets.txt
+
+# OS / editor cruft
+.DS_Store
+.vscode/
